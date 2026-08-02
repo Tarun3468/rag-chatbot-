@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-openai
+chromadb
+sentence-transformers
+pypdf
+rank_bm25
+fastapi
+uvicorn
+python-multipart
+streamlit
+python-dotenv
+ragas
+datasets
+requests
